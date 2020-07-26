@@ -1,24 +1,13 @@
-# README
+# PICTWEET
+* 画像と文字をみんなで投稿していくシンプルなアプリケーション 
+* カリキュラム内で作成
+ 
+# DEMO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Image from Gyazo](https://i.gyazo.com/ce8d2bc270b97dfe7d28a18043b2c050.png)](https://gyazo.com/ce8d2bc270b97dfe7d28a18043b2c050)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Features
+* ログイン・ログアウト
+* 画像や文字の投稿
+* コメント機能
+* 投稿の編集・削除
