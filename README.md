@@ -4,7 +4,9 @@
  
 # DEMO
 
-[![Image from Gyazo](https://i.gyazo.com/ce8d2bc270b97dfe7d28a18043b2c050.png)](https://gyazo.com/ce8d2bc270b97dfe7d28a18043b2c050)
+[![Image from Gyazo](https://i.gyazo.com/e0830d697a624d0845167d29455579dd.gif)](https://gyazo.com/e0830d697a624d0845167d29455579dd)
+
+[![Image from Gyazo](https://i.gyazo.com/74e557ade505144d1b195b379fb10436.gif)](https://gyazo.com/74e557ade505144d1b195b379fb10436)
 
 # Features
 * ログイン・ログアウト
